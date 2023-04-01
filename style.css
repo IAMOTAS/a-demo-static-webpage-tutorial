@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(192, 194, 194);
+}
+
+.main{
+margin: auto;
+width: fit-content;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+blockquote {
+    background-color: aqua;
+}
+
+.section .a {
+    background-color: red;
+}
